@@ -1,12 +1,12 @@
-# Hello, World! 👋
+# Hello, People! 👋
 
 I'm [@nipunasahanmahaliyana](https://github.com/nipunasahanmahaliyana), an enthusiastic individual passionate about technology and its endless possibilities.
 
 ## About Me
 
 - 👀 I'm interested in exploring new technologies and contributing to innovative projects.
-- 🌱 Currently learning Netwotking, IOT and Machine Learning.
-- 💞️ Open to collaborating on projects that involve Networking and IOT.
+- 🌱 Currently learning Netwotking, IoT and Machine Learning.
+- 💞️ Open to collaborating on projects that involve Networking and IoT.
 - 😄 Pronouns: He/Him..
 - 🎓 Information Technology (IT) Honors student
 
@@ -20,8 +20,8 @@ I'm [@nipunasahanmahaliyana](https://github.com/nipunasahanmahaliyana), an enthu
 ## Skills
 
 - **Programming Languages:** Java,C++,C#,Python,PHP,Html,CSS 💻
-- **IoT Platforms:** [List of IoT platforms you've worked with] 🤖
-- **Networking:** Cisco Pancket Tracer 🌐
+- **IoT Platforms:** Oracle IoT 🤖
+- **Networking:** Cisco Packet Tracer 🌐
 - **Databases:** Mysql 🛢️
 
 
