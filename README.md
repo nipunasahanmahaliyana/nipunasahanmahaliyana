@@ -1,6 +1,6 @@
 # Hello, People! I am Nipuna Sahan Mahaliyana 👋
 
-I'm [@nipunasahanmahaliyana](https://github.com/nipunasahanmahaliyana), an enthusiastic individual passionate about technology and its endless possibilities.
+An enthusiastic individual passionate about technology and its endless possibilities.
 
 ## About Me
 
