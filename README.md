@@ -5,7 +5,7 @@ An enthusiastic individual passionate about technology and its endless possibili
 ## About Me
 
 - 👀 I'm interested in exploring new technologies and contributing to innovative projects.
-- 🌱 Currently learning Netwotking, IoT and Machine Learning.
+- 🌱 Currently learning Networking, IoT and Machine Learning.
 - 💞️ Open to collaborating on projects that involve Networking and IoT.
 - 😄 Pronouns: He/Him..
 - 🎓 Information Technology (IT) Honors student
@@ -23,7 +23,7 @@ An enthusiastic individual passionate about technology and its endless possibili
 - **IoT Platforms:** Oracle IoT 🤖
 - **Networking:** Cisco Packet Tracer 🌐
 - **Databases:** Mysql 🛢️
-
+- **Machine Learning**
 
 ## Let's Connect and Build Something Amazing! 🚀
 
