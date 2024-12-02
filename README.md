@@ -6,7 +6,7 @@ An enthusiastic individual passionate about technology and its endless possibili
 - 🌱 Currently focusing on software engineering, Networking, IoT, and Machine Learning/Deep learning.
 - 💞️ Open to collaborating on projects involving software engineering, Networking, IoT, or Machine Learning.
 - 😄 Pronouns: He/Him
-- 🎓 Graduate with a BSc (Hons) in Information Technology (Second Class Upper Division) from the University of Jaffna
+- 🎓 Graduate with a BSc (Hons) in Information Technology(3.21) from the University of Jaffna
 
 ## How to Reach Me
 - 📫 Drop me an email at nipunasnapdragon@gmail.com.
