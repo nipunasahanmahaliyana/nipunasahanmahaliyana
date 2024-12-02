@@ -13,7 +13,7 @@ An enthusiastic individual passionate about technology and its endless possibili
 - 🔗 Connect with me on LinkedIn at https://www.linkedin.com/in/nipuna-mahaliyana/.
 
 ## Skills
-- Programming Languages: Java, C, C#, Python, JavaScript, HTML, CSS , Tailwind CSS
+- Programming Languages: Java, C, C#, Python, JavaScript, HTML, CSS, Tailwind CSS
 - Frameworks: React, .NET Core, Tensorflow, Linux, Cisco IOS
 - IoT Development: Arduino, Oracle IoT
 - Networking: CCNA
