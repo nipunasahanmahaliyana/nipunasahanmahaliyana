@@ -1,30 +1,25 @@
-# Hello, People! I am Nipuna Sahan Mahaliyana 👋
-
+Hello, People! I am Nipuna Mahaliyana 👋
 An enthusiastic individual passionate about technology and its endless possibilities.
 
-## About Me
+About Me
+👀 I'm interested in exploring new technologies and contributing to innovative projects.
+🌱 Currently focusing on software engineering, Networking, IoT, and Machine Learning.
+💞️ Open to collaborating on projects involving software engineering, Networking, IoT, or Machine Learning.
+😄 Pronouns: He/Him
+🎓 Graduate with a BSc (Hons) in Information Technology (Second Class Upper Division) from the University of Jaffna
 
-- 👀 I'm interested in exploring new technologies and contributing to innovative projects.
-- 🌱 Currently learning Networking, IoT and Machine Learning.
-- 💞️ Open to collaborating on projects that involve Networking and IoT.
-- 😄 Pronouns: He/Him..
-- 🎓 Information Technology (IT) Honors student
+How to Reach Me
+📫 Drop me an email at nipunasnapdragon@gmail.com.
+🔗 Connect with me on LinkedIn.
+🐦 Follow me on Twitter: (Handle Pending).
 
+Skills
+Programming Languages: Java, C, C#, Python, JavaScript, HTML, CSS , Tailwind CSS
+Frameworks: React, .NET Core, Tensorflow, Linux, Cisco IOS
+IoT Development: Arduino, Oracle IoT
+Networking: CCNA
+Databases: MySQL
+Data Science: Machine Learning, Deep Learning (Research Publication in Deep Learning)
+Version Control: Git
 
-## How to Reach Me
-
-- 📫 Drop me an email at nipunasnapdragon@gmail.com.
-- 🔗 Connect with me on LinkedIn: www.linkedin.com/in/nipuna-mahaliyana.
-- 🐦 Follow me on Twitter:_.
-
-## Skills
-
-- **Programming Languages:** Java,C++,C#,Python,PHP,Html,CSS 💻
-- **IoT Platforms:** Oracle IoT 🤖
-- **Networking:** Cisco Packet Tracer 🌐
-- **Databases:** Mysql 🛢️
-- **Machine Learning**
-
-## Let's Connect and Build Something Amazing! 🚀
-
-
+Let's Connect and Build Something Amazing! 🚀
