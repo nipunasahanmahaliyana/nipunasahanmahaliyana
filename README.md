@@ -40,7 +40,8 @@ An enthusiastic individual passionate about technology and its endless possibili
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,c#,numpy,pandas,scikit-learn,,flutter,php,.net,vsstudio,linux,springboot,jquery,mobilenet" /><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,csharp,numpy,pandas,scikit-learn,flutter,php,net,vsstudio,linux,springboot,jquery,mobilenet" />
+
 </div>
 
 ## Let's Connect and Build Something Amazing! 🚀
