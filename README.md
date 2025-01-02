@@ -14,7 +14,6 @@ An enthusiastic individual passionate about technology and its endless possibili
 - 😄 Pronouns: He/Him
 - 🎓 Graduate with a BSc (Hons) in Information Technology from the University of Jaffna
 
-## How to Reach Me
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
