@@ -44,6 +44,8 @@ An enthusiastic individual passionate about technology and its endless possibili
 
 </div>
 
+<br/><br/>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
