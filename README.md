@@ -38,9 +38,9 @@ An enthusiastic individual passionate about technology and its endless possibili
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,androidstudio,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,csharp,numpy,pandas,scikit-learn,flutter,php,net,vs,linux,springboot,jquery,mobilenet" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,tensorflow,opencv,cs,selenium,pandas,scikit-learn,flutter,php,net,visualstudio,linux,springboot,jquery,mobilenet" />
 
 </div>
 
