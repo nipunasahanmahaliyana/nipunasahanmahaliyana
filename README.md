@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+People!+👋;+I+am+Nipuna+Mahaliyana👋;" />
 </h1>
 
-#  
 An enthusiastic individual passionate about technology and its endless possibilities.
 
 # About Me
@@ -35,5 +34,12 @@ An enthusiastic individual passionate about technology and its endless possibili
 - Databases: MySQL
 - Data Science: Machine Learning, Deep Learning (Research Publication in Deep Learning)
 - Version Control: Git
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
 ## Let's Connect and Build Something Amazing! 🚀
